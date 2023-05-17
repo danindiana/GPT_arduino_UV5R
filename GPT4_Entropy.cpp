@@ -1,4 +1,4 @@
-//GPT-4 refactoring Wes Anderson's Entropy.cpp library. 
+//GPT-4 refactoring Walter Anderson's Entropy.cpp library. 
 //Please note that you need to handle any exceptions thrown in the code, such as `std::invalid_argument`. Since Arduino doesn't support exceptions by //default due to the memory footprint, you might need to find an alternate way to handle the error. If you decide to use exceptions, you'll need to enable //them in your compiler settings.
 
 #include <Arduino.h>
